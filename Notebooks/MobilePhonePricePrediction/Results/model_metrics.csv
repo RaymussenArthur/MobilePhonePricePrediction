@@ -1,0 +1,5 @@
+Model,R2,RMSE
+Random Forest,0.5294,416.23
+Gradient Boosting,0.6034,382.12
+XGBoost,0.6708,348.11
+XGBoost Tuned,0.741,308.8
