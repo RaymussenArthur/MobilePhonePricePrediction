@@ -34,7 +34,7 @@
 
 ## Visualization Prediction
 
-![XGBoost Prediction Result](xgb_prediction_vs_actual.png)
+![XGBoost Prediction Result](Tuned_xgb_prediction_vs_actual.png)
 
 ---
 
