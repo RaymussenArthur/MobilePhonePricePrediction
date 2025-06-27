@@ -34,7 +34,7 @@
 
 ## Visualization Prediction
 
-![XGBoost Prediction Result](MobilePhonePricePrediction/Results/xgb_prediction_vs_actual.png)
+![XGBoost Prediction Result](xgb_prediction_vs_actual.png)
 
 ---
 
