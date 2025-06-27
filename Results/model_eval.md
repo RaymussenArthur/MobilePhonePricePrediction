@@ -39,7 +39,7 @@
 ---
 
 ## Conclusion
-- Tuned XGBoost memberi performa terbaik.
-- Fitur paling berpengaruh: RAM, Battery, CPU Core, Rear Cam.
-- Model siap digunakan untuk prediksi harga handphone mid-tier berdasarkan spesifikasi.
+- The tuned XGBoost model delivered the best performance.
+- The most price influential features were: RAM, Battery, CPU Core, and Rear Camera.
+- The model is ready to be used for predicting smartphone prices based on technical specifications.
 
